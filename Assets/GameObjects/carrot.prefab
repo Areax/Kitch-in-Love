@@ -19,11 +19,11 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4367805877466402}
-  - component: {fileID: 114142787708879104}
   - component: {fileID: 61874886794368706}
   - component: {fileID: 50832572810161726}
   - component: {fileID: 114402530312239650}
   - component: {fileID: 212943985230602070}
+  - component: {fileID: 114521575841483730}
   m_Layer: 10
   m_Name: carrot
   m_TagString: Untagged
@@ -89,17 +89,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &114142787708879104
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1318258808495372}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 879a1957638a569498bffbfea2b65880, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114402530312239650
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -109,6 +98,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 086e7ca3d6f8c1d4aae4ba808cd29559, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114521575841483730
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1318258808495372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ac8f3e9092f954cb91a32d92e67329, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &212943985230602070
