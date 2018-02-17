@@ -17,11 +17,11 @@ TagManager:
   - 
   - 
   - 
+  - Food
   - 
   - 
   - 
-  - 
-  - 
+  - Background
   - 
   - 
   - 
@@ -42,4 +42,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Food
+    uniqueID: 2468759833
+    locked: 0
+  - name: Background
+    uniqueID: 2403332425
     locked: 0
