@@ -5,6 +5,8 @@ using UnityEngine;
 public class ShiftObjectOnClick : MonoBehaviour
 {
 
+    private Vector3 knifePosition;
+    public float moveSpeed = 0.05f;
     public int lowerPosition = 1;
     GameObject knife;
     // Use this for initialization
@@ -16,16 +18,18 @@ public class ShiftObjectOnClick : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButton(1))
         {
-            knife.gameObject.transform.localScale += new Vector3(0, -1, 0);
-            transform.position = new Vector3(transform.position.x, transform.position.y + lowerPosition);
+            knifePosition = Input.mousePosition;
+            knifePosition = Camera.main.ScreenToWorldPoint(knifePosition);
+            knifePosition.y = -0.7f;
+            transform.position = Vector2.Lerp(transform.position, knifePosition, moveSpeed);
         }
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonUp(1))
         {
-            transform.position = new Vector3(transform.position.x, transform.position.y - lowerPosition);
-            knife.gameObject.transform.localScale += new Vector3(0, 1, 0);
+            transform.position = new Vector3(0.35f, -0.77f, 0f);
         }
+
     }
 
-}
+    }
