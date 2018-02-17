@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class acceleratingMovement : MonoBehaviour {
+public class AcceleratingMovement : MonoBehaviour {
 
     float Speed = 0;
     float Acceleration = 70; //How fast will object reach a maximum speed
