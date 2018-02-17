@@ -10,7 +10,7 @@ public class ShiftObjectOnClick : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        knife = GameObject.Find("Cube");
+        knife = GameObject.Find("Knife");
     }
 
     // Update is called once per frame
