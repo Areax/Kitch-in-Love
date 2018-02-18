@@ -26,6 +26,11 @@ public class LoadScene : MonoBehaviour
         SceneManager.LoadScene("Story");
     }
 
+    public void LoadCutGame()
+    {
+        SceneManager.LoadScene("CarrotCutting");
+    }
+
     public void LoadGameChoose()
     {
         SceneManager.LoadScene("GameChoose");
@@ -43,7 +48,7 @@ public class LoadScene : MonoBehaviour
 
     public void returnFromOptions()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene("StartMenu");
     }
 
     public void toggleAudio()
