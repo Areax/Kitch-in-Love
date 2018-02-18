@@ -16,6 +16,13 @@ public class InstantiateNew : MonoBehaviour {
     void Update() {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            GameObject[] carrots = GameObject.FindGameObjectsWithTag("carrot");
+            foreach(var carrot in carrots)
+            {
+                Destroy(carrot);
+            }
+
+            Cutting.ele = 0;
             Instantiate(createableObject, createLocation);
         }
 	}

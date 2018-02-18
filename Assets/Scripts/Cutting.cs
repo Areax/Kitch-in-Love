@@ -10,11 +10,18 @@ public class Cutting : MonoBehaviour {
     public Sprite sprite1;
     public Sprite sprite2;
     public Sprite sprite3;
+    public Sprite[] carrotParts;
+    public Sprite[] deadCarrots;
+    public static int ele = 0;
+    bool cutOnce;
+    public GameObject deadCarrot;
 
 	// Use this for initialization
 	void Start () {
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = sprite1;
+        ele = 0;
+        cutOnce = false;
 	}
 	
 	// Update is called once per frame
@@ -23,6 +30,12 @@ public class Cutting : MonoBehaviour {
         {
             StartCoroutine("cutRoom");
         }
+
+        if (Input.GetMouseButtonUp(0) && !cutOnce)
+        {
+            if(Score.score > 0)
+                Score.score -= 1;
+        }
     }
 
     IEnumerator cutRoom()
@@ -30,10 +43,10 @@ public class Cutting : MonoBehaviour {
         donezo = false;
         cut = true;
         spriteRenderer.sprite = sprite3;
-        yield return new WaitForSeconds(0.10f);
+        yield return new WaitForSeconds(0.05f);
         cut = false;
-        Debug.Log("Made it here");
-        yield return new WaitForSeconds(.33f);
+        yield return new WaitForSeconds(.16f);
+        cutOnce = false;
         spriteRenderer.sprite = sprite1;
         donezo = true;
     }
@@ -43,13 +56,16 @@ public class Cutting : MonoBehaviour {
         if (cut)
         {
 
-            if (coll.gameObject.tag == "carrot")
+            if (coll.gameObject.tag == "carrot" && !cutOnce && ele < 12)
             {
-                //GRAB COMPONENT's SCRIPT THAT HAS THE 2 CUT SPRITES
-                //RERENDER PARENT SPRITE AS THE NEW SMALLER CARROT SPRITE
-                //RERENDER THE CUT PART OF THE SPRITE HAS A NEW INSTANTIATE GAME OBJECT
-                Destroy(coll.gameObject);
+                Score.score += ((ele * ele) / 3) + 3;
+                cutOnce = true;
+                coll.gameObject.GetComponent<SpriteRenderer>().sprite = carrotParts[ele];
+                coll.gameObject.GetComponent<BoxCollider2D>().offset = new Vector2(coll.gameObject.GetComponent<BoxCollider2D>().offset.x-.66f, coll.gameObject.GetComponent<BoxCollider2D>().offset.y);
+                deadCarrot.GetComponent<SpriteRenderer>().sprite = deadCarrots[11 - ele];
+                Instantiate(deadCarrot, coll.transform.position, new Quaternion(0,0,0,0), coll.gameObject.transform.parent.gameObject.transform);
                 
+                ele++;
 
 
             }

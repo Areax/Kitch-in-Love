@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 50832572810161726}
   - component: {fileID: 114402530312239650}
   - component: {fileID: 212943985230602070}
-  - component: {fileID: 114521575841483730}
+  - component: {fileID: 114329633133873610}
   - component: {fileID: 61975543985031740}
   m_Layer: 10
   m_Name: carrot
@@ -38,8 +38,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1318258808495372}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.124, y: 0, z: 0}
-  m_LocalScale: {x: 0.07706275, y: 0.24735165, z: 1}
+  m_LocalPosition: {x: -0.023, y: 0.15, z: 0}
+  m_LocalScale: {x: 0.051984694, y: 0.16685753, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -76,7 +76,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 1.1792613, y: 1.0984342}
+  m_Offset: {x: 2.8271756, y: 1.0984342}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -87,8 +87,19 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 8.878689, y: 4.7268157}
+  m_Size: {x: 0.6881981, y: 4.7268157}
   m_EdgeRadius: 0
+--- !u!114 &114329633133873610
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1318258808495372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1055369b62c728c4b8035181a833ab8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114402530312239650
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -98,17 +109,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 086e7ca3d6f8c1d4aae4ba808cd29559, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114521575841483730
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1318258808495372}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 879a1957638a569498bffbfea2b65880, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &212943985230602070
@@ -145,7 +145,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 7bdaf244f8caa6840b54784ec804bf8e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 19.2, y: 10.8}
