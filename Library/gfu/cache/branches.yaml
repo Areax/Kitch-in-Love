@@ -11,17 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-18T16:40:18.5171853-05:00
-  lastVerifiedAtString: 2018-02-18T16:40:18.5286932-05:00
-  initializedAtString: 2018-02-18T16:39:57.1455662-05:00
+  lastUpdatedAtString: 2018-02-18T17:25:10.4594833-05:00
+  lastVerifiedAtString: 2018-02-18T17:25:10.4704908-05:00
+  initializedAtString: 2018-02-18T16:54:02.4203994-05:00
   gitConfigBranch:
     name: removeGitIgnore
     remote:
       name: origin
-      url: https://github.com/Areax/Kitch-in-Love.git
+      url: https://github.com/areax/kitch-in-love
   gitConfigRemote:
     name: origin
-    url: https://github.com/Areax/Kitch-in-Love.git
+    url: https://github.com/areax/kitch-in-love
   localBranches:
   - name: master
     tracking: origin/master
@@ -30,6 +30,9 @@ MonoBehaviour:
     tracking: origin/removeGitIgnore
     isActive: 1
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
   - name: origin/master
     tracking: '[None]'
     isActive: 0
@@ -38,7 +41,7 @@ MonoBehaviour:
     isActive: 0
   remotes:
   - name: origin
-    url: https://github.com/Areax/Kitch-in-Love.git
+    url: https://github.com/areax/kitch-in-love
     login: 
     user: 
     host: 
@@ -52,31 +55,36 @@ MonoBehaviour:
     - name: master
       remote:
         name: origin
-        url: https://github.com/Areax/Kitch-in-Love.git
+        url: https://github.com/areax/kitch-in-love
     - name: removeGitIgnore
       remote:
         name: origin
-        url: https://github.com/Areax/Kitch-in-Love.git
+        url: https://github.com/areax/kitch-in-love
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - master
       - removeGitIgnore
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/areax/kitch-in-love
       - name: master
         remote:
           name: origin
-          url: https://github.com/Areax/Kitch-in-Love.git
+          url: https://github.com/areax/kitch-in-love
       - name: removeGitIgnore
         remote:
           name: origin
-          url: https://github.com/Areax/Kitch-in-Love.git
+          url: https://github.com/areax/kitch-in-love
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Areax/Kitch-in-Love.git
+      url: https://github.com/areax/kitch-in-love

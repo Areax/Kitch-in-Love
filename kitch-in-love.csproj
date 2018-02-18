@@ -87,10 +87,14 @@
     <Compile Include="Assets\Scripts\PickBurner.cs" />
     <Compile Include="Assets\Scripts\PotPoints.cs" />
     <Compile Include="Assets\Scripts\RotateObject.cs" />
+    <Compile Include="Assets\Scripts\SNDPlay.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\ShiftObjectOnClick.cs" />
     <Compile Include="Assets\Scripts\ShiftObjectOnTime.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\UserInterface.cs" />
+    <Compile Include="Assets\Scripts\shiftUpsidedown.cs" />
+    <Compile Include="Assets\Scripts\splitCarrot.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />

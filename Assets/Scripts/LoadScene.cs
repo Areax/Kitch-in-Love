@@ -31,6 +31,11 @@ public class LoadScene : MonoBehaviour
         SceneManager.LoadScene("CarrotCutting");
     }
 
+    public void LoadStoveGame()
+    {
+        SceneManager.LoadScene("PotStove");
+    }
+
     public void LoadGameChoose()
     {
         SceneManager.LoadScene("GameChoose");
