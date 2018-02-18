@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class PickBurner : MonoBehaviour {
 
+    float timer;
+
     public static int pickedBurner;
 	// Use this for initialization
 	void Start () {
         pickedBurner = RR();
+        timer = 10f;
 	}
 
     int RR()
@@ -20,9 +23,12 @@ public class PickBurner : MonoBehaviour {
         while (true)
         {
             yield return new WaitForSeconds(timer);
-            randomValue = randomRange(falseSigmoid(progress));
-            incValue += randomValue / 100f;
-            timer = 4f + randomRange(1.5f);
+            int r = RR();
+            while(r == pickedBurner)
+            {
+                r = RR();
+            }
+            pickedBurner = r;
         }
     }
 
