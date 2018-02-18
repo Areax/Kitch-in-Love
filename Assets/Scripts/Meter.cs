@@ -14,6 +14,7 @@ public class Meter : MonoBehaviour
     float randomValue;
     float incValue;
     float timer;
+    int currentBurner;
 
     void OnGUI()
     {
@@ -60,6 +61,8 @@ public class Meter : MonoBehaviour
 
         randomValue = 0f;
         incValue = 0f;
+
+        currentBurner = -1;
     }
 
     // The larger the number, the greater the variance
@@ -76,6 +79,19 @@ public class Meter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (currentBurner != PickBurner.pickedBurner)
+        {
+            currentBurner = PickBurner.pickedBurner;
+
+            foreach (Transform child in PickBurner.stovePart[PickBurner.pickedBurner].transform)
+            {
+                if (child.tag == "knob")
+                {
+                    knobProgress = child.transform; 
+                }
+            }
+        }
+
         float p = (knobProgress.localEulerAngles.z / 360.0f);
         if(incValue != randomValue)
         {
@@ -84,7 +100,12 @@ public class Meter : MonoBehaviour
             else incValue -= .001f;
         }
 
-        progress = (knobProgress.localEulerAngles.z / 360.0f) < .05 || (knobProgress.localEulerAngles.z / 360.0f) > .95 ? 0 : 1 - p + incValue + randomRange(falseSigmoid(.005f));
+        if (Input.GetKey(KeyCode.Return))
+        {
+            progress = (knobProgress.localEulerAngles.z / 360.0f) < .05 || (knobProgress.localEulerAngles.z / 360.0f) > .95 ? 0 : 1 - p + incValue + randomRange(falseSigmoid(.005f));
+        }
+        else progress = 0f;
+        
 
     }
 }

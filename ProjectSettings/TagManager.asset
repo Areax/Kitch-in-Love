@@ -6,6 +6,9 @@ TagManager:
   tags:
   - destroyer
   - carrot
+  - burner
+  - knob
+  - stovePart
   layers:
   - Default
   - TransparentFX

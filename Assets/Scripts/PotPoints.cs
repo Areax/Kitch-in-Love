@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PotPoints : MonoBehaviour {
 
+    float speed = 0.03f;
     bool hitPot;
     bool increaseScore;
     Vector3 p;
@@ -31,27 +32,30 @@ public class PotPoints : MonoBehaviour {
         }
         if (Input.GetKey(KeyCode.D))
         {
-            transform.position = new Vector3(transform.position.x + 0.01f, transform.position.y, 0);
+            transform.position = new Vector3(transform.position.x + speed, transform.position.y, 0);
         }
         if (Input.GetKey(KeyCode.A))
         {
-            transform.position = new Vector3(transform.position.x - 0.01f, transform.position.y, 0);
+            transform.position = new Vector3(transform.position.x - speed, transform.position.y, 0);
         }
         if (Input.GetKey(KeyCode.W))
         {
-            transform.position = new Vector3(transform.position.x, transform.position.y + 0.01f, 0);
+            transform.position = new Vector3(transform.position.x, transform.position.y + speed, 0);
         }
         if (Input.GetKey(KeyCode.S))
         {
-            transform.position = new Vector3(transform.position.x, transform.position.y - 0.01f, 0);
+            transform.position = new Vector3(transform.position.x, transform.position.y - speed, 0);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "burner")
+        foreach (Transform child in PickBurner.stovePart[PickBurner.pickedBurner].transform)
         {
-            hitPot = true;
+            if (child.tag == "burner" && collision.gameObject == child.gameObject)
+            {
+                hitPot = true;
+            }
         }
     }
 

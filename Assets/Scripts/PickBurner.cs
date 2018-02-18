@@ -7,11 +7,18 @@ public class PickBurner : MonoBehaviour {
     float timer;
 
     public static int pickedBurner;
-	// Use this for initialization
-	void Start () {
+    public static GameObject[] stovePart;
+
+    // Use this for initialization
+    void Start () {
         pickedBurner = RR();
         timer = 10f;
-	}
+
+       stovePart = GameObject.FindGameObjectsWithTag("stovePart");
+
+        IEnumerator coroutine = startValue();
+        StartCoroutine(coroutine);
+    }
 
     int RR()
     {
