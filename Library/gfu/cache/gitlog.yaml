@@ -11,10 +11,52 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-18T17:58:28.1051117-05:00
-  lastVerifiedAtString: 2018-02-18T17:58:28.1051117-05:00
-  initializedAtString: 2018-02-18T17:58:24.7670690-05:00
+  lastUpdatedAtString: 2018-02-18T18:14:35.2354458-05:00
+  lastVerifiedAtString: 2018-02-18T18:14:35.2354458-05:00
+  initializedAtString: 2018-02-18T18:14:35.2354458-05:00
   log:
+  - commitID: 7c0935a94d7f24ab5102d86c6a9cdd55bf8a8291
+    mergeA: 
+    mergeB: 
+    authorName: Areax
+    authorEmail: actuallythisisspam@gmail.com
+    commitEmail: actuallythisisspam@gmail.com
+    commitName: Areax
+    summary: adds all other files
+    description: adds all other files
+    timeString: 2018-02-18T17:59:23.0000000-05:00
+    commitTimeString: 2018-02-18T17:59:23.0000000-05:00
+    changes:
+    - path: .vs\Kitch in Love\v15\.suo
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\.vs\Kitch in Love\v15\.suo
+      projectPath: .vs\Kitch in Love\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\UnityVS_obj\Debug\CoreCompileInputs.cache
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Temp\UnityVS_obj\Debug\CoreCompileInputs.cache
+      projectPath: Temp\UnityVS_obj\Debug\CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 5a089fff894f94efd6effc5527360abeb9d71aff
+    mergeA: 1e6e7787161b7676f92a0e211d089fcc25843ab4
+    mergeB: 36d07a410e8b2ecf846f6c7d7d89dea88da46d57
+    authorName: Areax
+    authorEmail: actuallythisisspam@gmail.com
+    commitEmail: actuallythisisspam@gmail.com
+    commitName: Areax
+    summary: merges more changes
+    description: merges more changes
+    timeString: 2018-02-18T17:58:42.0000000-05:00
+    commitTimeString: 2018-02-18T17:58:42.0000000-05:00
+    changes: []
   - commitID: 1e6e7787161b7676f92a0e211d089fcc25843ab4
     mergeA: 
     mergeB: 
@@ -437,6 +479,240 @@ MonoBehaviour:
       originalPath: 
       status: 4
       staged: 0
+  - commitID: 36d07a410e8b2ecf846f6c7d7d89dea88da46d57
+    mergeA: 
+    mergeB: 
+    authorName: tclark61
+    authorEmail: tclark61@knights.ucf.edu
+    commitEmail: tclark61@knights.ucf.edu
+    commitName: tclark61
+    summary: finish!@!!!!!!
+    description: finish!@!!!!!!
+    timeString: 2018-02-18T17:55:27.0000000-05:00
+    commitTimeString: 2018-02-18T17:55:27.0000000-05:00
+    changes:
+    - path: Assets\Scenes\GameChoose.unity
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scenes\GameChoose.unity
+      projectPath: Assets\Scenes\GameChoose.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Good Ending.unity
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scenes\Good Ending.unity
+      projectPath: Assets\Scenes\Good Ending.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Good Ending.unity.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scenes\Good Ending.unity.meta
+      projectPath: Assets\Scenes\Good Ending.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CheckWin.cs
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\CheckWin.cs
+      projectPath: Assets\Scripts\CheckWin.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CheckWin.cs.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\CheckWin.cs.meta
+      projectPath: Assets\Scripts\CheckWin.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Timer.cs
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\Timer.cs
+      projectPath: Assets\Scripts\Timer.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Sprites\badend.png
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\badend.png
+      projectPath: Assets\Sprites\badend.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\badend.png.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\badend.png.meta
+      projectPath: Assets\Sprites\badend.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\gameover.png
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\gameover.png
+      projectPath: Assets\Sprites\gameover.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\gameover.png.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\gameover.png.meta
+      projectPath: Assets\Sprites\gameover.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\goodending.png
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\goodending.png
+      projectPath: Assets\Sprites\goodending.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\goodending.png.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\goodending.png.meta
+      projectPath: Assets\Sprites\goodending.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d
+      projectPath: Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d.info
+      projectPath: Library\metadata\2c\2c4b0347f97d37c4a991c7b5bb08d04d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\43\43f5037c1d129f04d809f019d3e59968
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\43\43f5037c1d129f04d809f019d3e59968
+      projectPath: Library\metadata\43\43f5037c1d129f04d809f019d3e59968
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\43\43f5037c1d129f04d809f019d3e59968.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\43\43f5037c1d129f04d809f019d3e59968.info
+      projectPath: Library\metadata\43\43f5037c1d129f04d809f019d3e59968.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\51\51b929f2d1cd37a4897b9d6f988245c8
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\51\51b929f2d1cd37a4897b9d6f988245c8
+      projectPath: Library\metadata\51\51b929f2d1cd37a4897b9d6f988245c8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\67\67afd918c98804449a2a7461c443a4ce
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\67\67afd918c98804449a2a7461c443a4ce
+      projectPath: Library\metadata\67\67afd918c98804449a2a7461c443a4ce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\67\67afd918c98804449a2a7461c443a4ce.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\67\67afd918c98804449a2a7461c443a4ce.info
+      projectPath: Library\metadata\67\67afd918c98804449a2a7461c443a4ce.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b
+      projectPath: Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b.info
+      projectPath: Library\metadata\6c\6c64e7c961a0fcc4aa6f833d19f05d7b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d
+      projectPath: Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d.info
+      projectPath: Library\metadata\e3\e3c8022597a5b274ea4a76b7b10c551d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: kitch-in-love.csproj
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\kitch-in-love.csproj
+      projectPath: kitch-in-love.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 9daad41614457dfaa1eb5577fb97bc4faa6fa135
+    mergeA: 6263baca6154eeb28f2668db59398f4fb8cee22e
+    mergeB: e49481d99c50dbb57a08918fb6869074c7df929b
+    authorName: tclark61
+    authorEmail: tclark61@knights.ucf.edu
+    commitEmail: tclark61@knights.ucf.edu
+    commitName: tclark61
+    summary: jasper screwed me over
+    description: jasper screwed me over
+    timeString: 2018-02-18T17:33:44.0000000-05:00
+    commitTimeString: 2018-02-18T17:33:44.0000000-05:00
+    changes: []
   - commitID: e49481d99c50dbb57a08918fb6869074c7df929b
     mergeA: 
     mergeB: 
@@ -644,6 +920,342 @@ MonoBehaviour:
     - path: ProjectSettings\TagManager.asset
       fullPath: C:\Users\ja742942\Documents\Kitch in Love\ProjectSettings\TagManager.asset
       projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 6263baca6154eeb28f2668db59398f4fb8cee22e
+    mergeA: 
+    mergeB: 
+    authorName: tclark61
+    authorEmail: tclark61@knights.ucf.edu
+    commitEmail: tclark61@knights.ucf.edu
+    commitName: tclark61
+    summary: Working game, still needs sound and end game screens
+    description: Working game, still needs sound and end game screens
+    timeString: 2018-02-18T17:27:13.0000000-05:00
+    commitTimeString: 2018-02-18T17:27:13.0000000-05:00
+    changes:
+    - path: Assets\GameObjects\carrotPart.prefab
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\GameObjects\carrotPart.prefab
+      projectPath: Assets\GameObjects\carrotPart.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\CarrotCutting.unity
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scenes\CarrotCutting.unity
+      projectPath: Assets\Scenes\CarrotCutting.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\GameChoose.unity
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scenes\GameChoose.unity
+      projectPath: Assets\Scenes\GameChoose.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\LoadScene.cs
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\LoadScene.cs
+      projectPath: Assets\Scripts\LoadScene.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\SNDPlay.cs
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\SNDPlay.cs
+      projectPath: Assets\Scripts\SNDPlay.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\SNDPlay.cs.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Scripts\SNDPlay.cs.meta
+      projectPath: Assets\Scripts\SNDPlay.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Sounds.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\Sounds.meta
+      projectPath: Assets\Sprites\Sounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Sounds\CUT.WAV
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\Sounds\CUT.WAV
+      projectPath: Assets\Sprites\Sounds\CUT.WAV
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\Sounds\CUT.WAV.meta
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Assets\Sprites\Sounds\CUT.WAV.meta
+      projectPath: Assets\Sprites\Sounds\CUT.WAV.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000002000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000002000000000000000
+      projectPath: Library\metadata\00\00000000000000002000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000003000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000003000000000000000
+      projectPath: Library\metadata\00\00000000000000003000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000004000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000004000000000000000
+      projectPath: Library\metadata\00\00000000000000004000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000004100000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000004100000000000000
+      projectPath: Library\metadata\00\00000000000000004100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000005000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000005000000000000000
+      projectPath: Library\metadata\00\00000000000000005000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000006000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000006000000000000000
+      projectPath: Library\metadata\00\00000000000000006000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000006100000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000006100000000000000
+      projectPath: Library\metadata\00\00000000000000006100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000007000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000007000000000000000
+      projectPath: Library\metadata\00\00000000000000007000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000007100000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000007100000000000000
+      projectPath: Library\metadata\00\00000000000000007100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\0000000000000000a000000000000000
+      projectPath: Library\metadata\00\0000000000000000a000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a100000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\0000000000000000a100000000000000
+      projectPath: Library\metadata\00\0000000000000000a100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000b000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\0000000000000000b000000000000000
+      projectPath: Library\metadata\00\0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000c000000000000000
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\0000000000000000c000000000000000
+      projectPath: Library\metadata\00\0000000000000000c000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\001ddb03ce758c3408edeb8a9d456977
+      projectPath: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.info
+      projectPath: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.resource
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.resource
+      projectPath: Library\metadata\00\001ddb03ce758c3408edeb8a9d456977.resource
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\26\26f0368e0a795984c8eb42c98f172302.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\26\26f0368e0a795984c8eb42c98f172302.info
+      projectPath: Library\metadata\26\26f0368e0a795984c8eb42c98f172302.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\54\5441ad4de218a644698c23b453306039
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\54\5441ad4de218a644698c23b453306039
+      projectPath: Library\metadata\54\5441ad4de218a644698c23b453306039
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\54\5441ad4de218a644698c23b453306039.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\54\5441ad4de218a644698c23b453306039.info
+      projectPath: Library\metadata\54\5441ad4de218a644698c23b453306039.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3
+      projectPath: Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3.info
+      projectPath: Library\metadata\80\807b70179db1edf49adaa82d4bf21ed3.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd
+      projectPath: Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd.info
+      projectPath: Library\metadata\87\87d3d44fc01dc6c4989229dcba78e1fd.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8a\8a8859c5d9dd471469abbcd701b8ab77
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\8a\8a8859c5d9dd471469abbcd701b8ab77
+      projectPath: Library\metadata\8a\8a8859c5d9dd471469abbcd701b8ab77
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
+      projectPath: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720
+      projectPath: Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720.info
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720.info
+      projectPath: Library\metadata\e9\e9f513261a717e64ab05770aeb9e2720.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: kitch-in-love.csproj
+      fullPath: C:\Users\ja742942\Documents\Kitch in Love\kitch-in-love.csproj
+      projectPath: kitch-in-love.csproj
       originalPath: 
       status: 3
       staged: 0

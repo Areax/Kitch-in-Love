@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+using UnityEngine.SceneManagement;
 
 [System.Serializable]
 public class HighScores
@@ -86,6 +87,8 @@ public class Timer : MonoBehaviour
                 highScores.carrotScore = highScore;
                 CheckWin.cutGamePlayed = true;
             }
+
+            SceneManager.LoadScene("GameChoose");
 
                 string dataAsJson = JsonUtility.ToJson(highScores);
 
