@@ -23,6 +23,14 @@ public class ShiftObjectOnClick : MonoBehaviour
             knifePosition = Input.mousePosition;
             knifePosition = Camera.main.ScreenToWorldPoint(knifePosition);
             knifePosition.y = -0.7f;
+            if(knifePosition.x < -2.2f)
+            {
+                knifePosition.x = -2.2f;
+            }
+            if (knifePosition.x > 3.2f)
+            {
+                knifePosition.x = 3.2f;
+            }
             transform.position = Vector2.Lerp(transform.position, knifePosition, moveSpeed);
         }
         if (Input.GetMouseButtonUp(1))
