@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\Cutting.cs" />
     <Compile Include="Assets\Scripts\DestroyAfterPosition.cs" />
     <Compile Include="Assets\Scripts\InstantiateNew.cs" />
+    <Compile Include="Assets\Scripts\LoadScene.cs" />
     <Compile Include="Assets\Scripts\Meter.cs" />
     <Compile Include="Assets\Scripts\PickBurner.cs" />
     <Compile Include="Assets\Scripts\PotPoints.cs" />
@@ -89,6 +90,7 @@
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\ShiftObjectOnClick.cs" />
     <Compile Include="Assets\Scripts\ShiftObjectOnTime.cs" />
+    <Compile Include="Assets\Scripts\UserInterface.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />

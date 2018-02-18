@@ -54,7 +54,7 @@ public class Meter : MonoBehaviour
     {
         progress = 0.75f;
         timer = 8f;
-        pos = new Vector2(0.837f, 0.12f);
+        pos = new Vector2(0.836f, 0.12f);
         size = new Vector2(14.5f, 110f);
         coroutine = startValue();
         StartCoroutine(coroutine);

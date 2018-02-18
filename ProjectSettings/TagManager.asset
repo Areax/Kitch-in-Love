@@ -9,6 +9,7 @@ TagManager:
   - burner
   - knob
   - stovePart
+  - UI
   layers:
   - Default
   - TransparentFX

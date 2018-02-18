@@ -46,6 +46,23 @@ public class PotPoints : MonoBehaviour {
         {
             transform.position = new Vector3(transform.position.x, transform.position.y - speed, 0);
         }
+
+        if(transform.position.x < .38f)
+        {
+            transform.position = new Vector3(.38f, transform.position.y);
+        }
+        else if (transform.position.x > 5.3f)
+        {
+            transform.position = new Vector3(5.3f, transform.position.y);
+        }
+        if (transform.position.y < -.5f)
+        {
+            transform.position = new Vector3(transform.position.x, -.5f);
+        }
+        else if (transform.position.y > 2.1f)
+        {
+            transform.position = new Vector3(transform.position.x, 2.1f);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

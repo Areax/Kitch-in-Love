@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PotStove.unity
+- path: Assets/Scenes/PotStove.unity
   isLoaded: 1
   isActive: 1
