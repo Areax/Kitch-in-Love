@@ -11,19 +11,55 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-18T13:37:23.5372785-05:00
-  lastVerifiedAtString: 2018-02-18T13:37:23.5372785-05:00
-  initializedAtString: 2018-02-18T13:24:29.3161099-05:00
+  lastUpdatedAtString: 2018-02-18T16:04:29.8252404-05:00
+  lastVerifiedAtString: 2018-02-18T16:04:29.8252404-05:00
+  initializedAtString: 2018-02-18T16:00:57.1832316-05:00
   entries:
-  - path: Kitch-in-Love.sln
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Kitch-in-Love.sln
-    projectPath: Kitch-in-Love.sln
+  - path: Assets\PotStove.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\PotStove.unity
+    projectPath: Assets\PotStove.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\AssetServerCacheV3
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\AssetServerCacheV3
-    projectPath: Library\AssetServerCacheV3
+  - path: Assets\StartMenu.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\StartMenu.unity
+    projectPath: Assets\StartMenu.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\StartMenu.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\StartMenu.unity.meta
+    projectPath: Assets\StartMenu.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
@@ -33,111 +69,45 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEditor.dll
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEditor.dll
-    projectPath: Library\UnityAssemblies\UnityEditor.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEditor.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEditor.xml
-    projectPath: Library\UnityAssemblies\UnityEditor.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.Analytics.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.Analytics.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.Analytics.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.HoloLens.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.HoloLens.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.HoloLens.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.Networking.dll
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.Networking.dll
-    projectPath: Library\UnityAssemblies\UnityEngine.Networking.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.Networking.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.Networking.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.Networking.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\UnityAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.TestRunner.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.TestRunner.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.TestRunner.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.UI.dll
-    projectPath: Library\UnityAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.UI.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.UI.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.UI.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.VR.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.VR.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.VR.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.dll
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.dll
-    projectPath: Library\UnityAssemblies\UnityEngine.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\UnityEngine.xml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\UnityEngine.xml
-    projectPath: Library\UnityAssemblies\UnityEngine.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\UnityAssemblies\version.txt
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\UnityAssemblies\version.txt
-    projectPath: Library\UnityAssemblies\version.txt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\00\00000000000000002000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000002000000000000000
-    projectPath: Library\metadata\00\00000000000000002000000000000000
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -147,711 +117,171 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\00\00000000000000004000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000004000000000000000
-    projectPath: Library\metadata\00\00000000000000004000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000004100000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000004100000000000000
-    projectPath: Library\metadata\00\00000000000000004100000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000005000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000005000000000000000
-    projectPath: Library\metadata\00\00000000000000005000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000005100000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000005100000000000000
-    projectPath: Library\metadata\00\00000000000000005100000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000006000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000006000000000000000
-    projectPath: Library\metadata\00\00000000000000006000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000006100000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000006100000000000000
-    projectPath: Library\metadata\00\00000000000000006100000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000007000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000007000000000000000
-    projectPath: Library\metadata\00\00000000000000007000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000007100000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000007100000000000000
-    projectPath: Library\metadata\00\00000000000000007100000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000008000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000008000000000000000
-    projectPath: Library\metadata\00\00000000000000008000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\00000000000000009000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\00000000000000009000000000000000
-    projectPath: Library\metadata\00\00000000000000009000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\0000000000000000a000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0000000000000000a000000000000000
-    projectPath: Library\metadata\00\0000000000000000a000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\00\0000000000000000a100000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0000000000000000a100000000000000
-    projectPath: Library\metadata\00\0000000000000000a100000000000000
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\metadata\00\0000000000000000b000000000000000
     fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0000000000000000b000000000000000
     projectPath: Library\metadata\00\0000000000000000b000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\00\0000000000000000c000000000000000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0000000000000000c000000000000000
-    projectPath: Library\metadata\00\0000000000000000c000000000000000
+  - path: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
+    projectPath: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\0c\0c34e39fe00a82b40a9063a354d51e2c
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\0c\0c34e39fe00a82b40a9063a354d51e2c
-    projectPath: Library\metadata\0c\0c34e39fe00a82b40a9063a354d51e2c
+  - path: Library\metadata\45\451745283c2ff92499ab3c6d587cdd87
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\45\451745283c2ff92499ab3c6d587cdd87
+    projectPath: Library\metadata\45\451745283c2ff92499ab3c6d587cdd87
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
-    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+  - path: Library\metadata\54\5441ad4de218a644698c23b453306039
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\54\5441ad4de218a644698c23b453306039
+    projectPath: Library\metadata\54\5441ad4de218a644698c23b453306039
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
-    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
-    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00
-    projectPath: Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00
+  - path: kitch-in-love.csproj
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\kitch-in-love.csproj
+    projectPath: kitch-in-love.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00.info
-    projectPath: Library\metadata\1f\1f8c63fcd52648a4f8ef70e6dfc0ac00.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
-    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44
-    projectPath: Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44.info
-    projectPath: Library\metadata\22\22e44bc9ca753644b9311f217cd1bb44.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
-    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
-    projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
-    projectPath: Library\metadata\30\307433eba81a469ab1e2084d52d1a5a2
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
-    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
-    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
-    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\40\405b9b51bb344a128608d968297df79c
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\40\405b9b51bb344a128608d968297df79c
-    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
-    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
-    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
-    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
-    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
-    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\54\54d08b57b660f2e4a940ee7eb3006120
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\54\54d08b57b660f2e4a940ee7eb3006120
-    projectPath: Library\metadata\54\54d08b57b660f2e4a940ee7eb3006120
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
-    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
-    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\69\6981461fe431401459211818212a29cf
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\69\6981461fe431401459211818212a29cf
-    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0
-    projectPath: Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0.info
-    projectPath: Library\metadata\6b\6b0ef7e757b1ae6468cf58b8e45f04a0.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
-    projectPath: Library\metadata\6c\6cdf1e5c78d14720aaadccd4c792df96
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
-    projectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e
-    projectPath: Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e.info
-    projectPath: Library\metadata\7b\7bdaf244f8caa6840b54784ec804bf8e.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
-    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\83\8382b2bb260241859771b69b7f377a8d
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\83\8382b2bb260241859771b69b7f377a8d
-    projectPath: Library\metadata\83\8382b2bb260241859771b69b7f377a8d
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
-    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\85\852e56802eb941638acbb491814497b0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\85\852e56802eb941638acbb491814497b0
-    projectPath: Library\metadata\85\852e56802eb941638acbb491814497b0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
-    projectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
-    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
-    projectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
-    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
-    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
-    projectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
-    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
-    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
-    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\bb\bb9670a8263fe5444b04d4c65fa3d90b
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\bb\bb9670a8263fe5444b04d4c65fa3d90b
-    projectPath: Library\metadata\bb\bb9670a8263fe5444b04d4c65fa3d90b
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\d0\d05b96cee66e14240838de167097537a
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d0\d05b96cee66e14240838de167097537a
-    projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
-    projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
-    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
-    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
-    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
-    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
-    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41
-    projectPath: Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41.info
-    projectPath: Library\metadata\fb\fbd1741fc6a55ce459dd00bba8f7fd41.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Plugins.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
+  - path: Assets\Scenes\Credits.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\Credits.unity
+    projectPath: Assets\Scenes\Credits.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
+  - path: Assets\Scenes\Credits.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\Credits.unity.meta
+    projectPath: Assets\Scenes\Credits.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+  - path: Assets\Scenes\GameChoose.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\GameChoose.unity
+    projectPath: Assets\Scenes\GameChoose.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\CREDITS.txt
-    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+  - path: Assets\Scenes\GameChoose.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\GameChoose.unity.meta
+    projectPath: Assets\Scenes\GameChoose.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+  - path: Assets\Scenes\HowTo.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\HowTo.unity
+    projectPath: Assets\Scenes\HowTo.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
+  - path: Assets\Scenes\HowTo.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\HowTo.unity.meta
+    projectPath: Assets\Scenes\HowTo.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\EULA.txt
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\EULA.txt
-    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+  - path: Assets\Scenes\StartMenu.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\StartMenu.unity
+    projectPath: Assets\Scenes\StartMenu.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\EULA.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+  - path: Assets\Scenes\StartMenu.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\StartMenu.unity.meta
+    projectPath: Assets\Scenes\StartMenu.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+  - path: Assets\Scenes\Story.unity
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\Story.unity
+    projectPath: Assets\Scenes\Story.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+  - path: Assets\Scenes\Story.unity.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scenes\Story.unity.meta
+    projectPath: Assets\Scenes\Story.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+  - path: Assets\Scripts\LoadScene.cs
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scripts\LoadScene.cs
+    projectPath: Assets\Scripts\LoadScene.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+  - path: Assets\Scripts\LoadScene.cs.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scripts\LoadScene.cs.meta
+    projectPath: Assets\Scripts\LoadScene.cs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+  - path: Assets\Scripts\UserInterface.cs
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scripts\UserInterface.cs
+    projectPath: Assets\Scripts\UserInterface.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+  - path: Assets\Scripts\UserInterface.cs.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Scripts\UserInterface.cs.meta
+    projectPath: Assets\Scripts\UserInterface.cs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+  - path: Assets\Sprites\gamechoose.png
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\gamechoose.png
+    projectPath: Assets\Sprites\gamechoose.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+  - path: Assets\Sprites\gamechoose.png.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\gamechoose.png.meta
+    projectPath: Assets\Sprites\gamechoose.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+  - path: Assets\Sprites\story.png
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\story.png
+    projectPath: Assets\Sprites\story.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+  - path: Assets\Sprites\story.png.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\story.png.meta
+    projectPath: Assets\Sprites\story.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+  - path: Assets\Sprites\title.png
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\title.png
+    projectPath: Assets\Sprites\title.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\StartMenu.unity
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\StartMenu.unity
-    projectPath: Assets\StartMenu.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\StartMenu.unity.meta
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\StartMenu.unity.meta
-    projectPath: Assets\StartMenu.unity.meta
+  - path: Assets\Sprites\title.png.meta
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Assets\Sprites\title.png.meta
+    projectPath: Assets\Sprites\title.png.meta
     originalPath: 
     status: 1
     staged: 0
@@ -861,681 +291,129 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache.db
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache.db
-    projectPath: Library\ShaderCache.db
+  - path: Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f
+    projectPath: Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\0\000d8331f64723173258c07b4dcb966f.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\0\000d8331f64723173258c07b4dcb966f.bin
-    projectPath: Library\ShaderCache\0\000d8331f64723173258c07b4dcb966f.bin
+  - path: Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f.info
+    projectPath: Library\metadata\00\0014f918f84e8bf4f98720f2770e7b7f.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\0\02cc1ba3377fa81db092553865f3e1c0.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\0\02cc1ba3377fa81db092553865f3e1c0.bin
-    projectPath: Library\ShaderCache\0\02cc1ba3377fa81db092553865f3e1c0.bin
+  - path: Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a
+    projectPath: Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\0\0ef9b56f73396b90777f1e1d0af1e2de.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\0\0ef9b56f73396b90777f1e1d0af1e2de.bin
-    projectPath: Library\ShaderCache\0\0ef9b56f73396b90777f1e1d0af1e2de.bin
+  - path: Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a.info
+    projectPath: Library\metadata\0d\0dd3ff8c954e44344bf40a784577fe1a.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\1\180ce9f7ac9a79481f789f20a805af33.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\1\180ce9f7ac9a79481f789f20a805af33.bin
-    projectPath: Library\ShaderCache\1\180ce9f7ac9a79481f789f20a805af33.bin
+  - path: Library\metadata\4b\4b46893814f2e25459c327364fc3e112
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\4b\4b46893814f2e25459c327364fc3e112
+    projectPath: Library\metadata\4b\4b46893814f2e25459c327364fc3e112
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\2\26bcb1e1b017d92365734edb8979fa25.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\2\26bcb1e1b017d92365734edb8979fa25.bin
-    projectPath: Library\ShaderCache\2\26bcb1e1b017d92365734edb8979fa25.bin
+  - path: Library\metadata\4b\4b46893814f2e25459c327364fc3e112.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\4b\4b46893814f2e25459c327364fc3e112.info
+    projectPath: Library\metadata\4b\4b46893814f2e25459c327364fc3e112.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\2\27f4fea3b144b3a102bf618b1353bee7.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\2\27f4fea3b144b3a102bf618b1353bee7.bin
-    projectPath: Library\ShaderCache\2\27f4fea3b144b3a102bf618b1353bee7.bin
+  - path: Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4
+    projectPath: Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\3\3d3e3546bbc62e96334376e82ea4396e.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\3\3d3e3546bbc62e96334376e82ea4396e.bin
-    projectPath: Library\ShaderCache\3\3d3e3546bbc62e96334376e82ea4396e.bin
+  - path: Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4.info
+    projectPath: Library\metadata\99\99b6348e482ac194f95d136a6e5f9dd4.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\4\408dc134dce931703e4aeeb3dbb93b9b.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\4\408dc134dce931703e4aeeb3dbb93b9b.bin
-    projectPath: Library\ShaderCache\4\408dc134dce931703e4aeeb3dbb93b9b.bin
+  - path: Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60
+    projectPath: Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\4\49938184027e3262ff982afde1670621.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\4\49938184027e3262ff982afde1670621.bin
-    projectPath: Library\ShaderCache\4\49938184027e3262ff982afde1670621.bin
+  - path: Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60.info
+    projectPath: Library\metadata\af\affded8b30b66bf4f90398d4f89b1a60.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\5\57dbb54708b4b196c46e5a5e88246f28.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\5\57dbb54708b4b196c46e5a5e88246f28.bin
-    projectPath: Library\ShaderCache\5\57dbb54708b4b196c46e5a5e88246f28.bin
+  - path: Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862
+    projectPath: Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\6\69239984605ca6f73b1427b3a2f6b559.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\6\69239984605ca6f73b1427b3a2f6b559.bin
-    projectPath: Library\ShaderCache\6\69239984605ca6f73b1427b3a2f6b559.bin
+  - path: Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862.info
+    projectPath: Library\metadata\b4\b4f04d3ba3d21074e9c0afe0abd0e862.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\6\69d6bb8a8aec563a644f901a7c2deebc.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\6\69d6bb8a8aec563a644f901a7c2deebc.bin
-    projectPath: Library\ShaderCache\6\69d6bb8a8aec563a644f901a7c2deebc.bin
+  - path: Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0
+    projectPath: Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\6\6bf258cef27c65cb3ed8bab1fafa70ad.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\6\6bf258cef27c65cb3ed8bab1fafa70ad.bin
-    projectPath: Library\ShaderCache\6\6bf258cef27c65cb3ed8bab1fafa70ad.bin
+  - path: Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0.info
+    projectPath: Library\metadata\b5\b5ac8ce6294ef5948835eb984bdd22d0.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\7\70f891124fef4844d73f5bfdfaf570d2.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\7\70f891124fef4844d73f5bfdfaf570d2.bin
-    projectPath: Library\ShaderCache\7\70f891124fef4844d73f5bfdfaf570d2.bin
+  - path: Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6
+    projectPath: Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\7\763030427ba3cc903fe7a11884cce59e.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\7\763030427ba3cc903fe7a11884cce59e.bin
-    projectPath: Library\ShaderCache\7\763030427ba3cc903fe7a11884cce59e.bin
+  - path: Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6.info
+    projectPath: Library\metadata\bc\bc8823811da77404386e3f1dcabcdfb6.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\7\7caea3e137c4554f598031d92f488ae5.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\7\7caea3e137c4554f598031d92f488ae5.bin
-    projectPath: Library\ShaderCache\7\7caea3e137c4554f598031d92f488ae5.bin
+  - path: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
+    projectPath: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\7\7dd3e84dc472681fbe0c06bd2aee0d91.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\7\7dd3e84dc472681fbe0c06bd2aee0d91.bin
-    projectPath: Library\ShaderCache\7\7dd3e84dc472681fbe0c06bd2aee0d91.bin
+  - path: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265.info
+    projectPath: Library\metadata\d8\d8b47e096721f1d4db5867f7d3db0265.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\9\99841ea754280e76c1bd363e7382afca.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\9\99841ea754280e76c1bd363e7382afca.bin
-    projectPath: Library\ShaderCache\9\99841ea754280e76c1bd363e7382afca.bin
+  - path: Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82
+    projectPath: Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\9\9b258a59fa7e069cfe644eef980548d9.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\9\9b258a59fa7e069cfe644eef980548d9.bin
-    projectPath: Library\ShaderCache\9\9b258a59fa7e069cfe644eef980548d9.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\a\ad6ff30ee9f0e246875a79030bbf0c82.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\a\ad6ff30ee9f0e246875a79030bbf0c82.bin
-    projectPath: Library\ShaderCache\a\ad6ff30ee9f0e246875a79030bbf0c82.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\b\b76823486a0903ab96dfb156caa3ae25.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\b\b76823486a0903ab96dfb156caa3ae25.bin
-    projectPath: Library\ShaderCache\b\b76823486a0903ab96dfb156caa3ae25.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\b\bb55d2199d5d19b6db041e5748603741.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\b\bb55d2199d5d19b6db041e5748603741.bin
-    projectPath: Library\ShaderCache\b\bb55d2199d5d19b6db041e5748603741.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\c4860b845326a841f8b1e975b00efa21.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\c\c4860b845326a841f8b1e975b00efa21.bin
-    projectPath: Library\ShaderCache\c\c4860b845326a841f8b1e975b00efa21.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\ceeeecf580f08e554baa407380ae0aea.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\c\ceeeecf580f08e554baa407380ae0aea.bin
-    projectPath: Library\ShaderCache\c\ceeeecf580f08e554baa407380ae0aea.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\d\df127ce235504fcccc6386b5cf60f41b.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\d\df127ce235504fcccc6386b5cf60f41b.bin
-    projectPath: Library\ShaderCache\d\df127ce235504fcccc6386b5cf60f41b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\e31937ecbcddf3127ba44daaaae6b937.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\e\e31937ecbcddf3127ba44daaaae6b937.bin
-    projectPath: Library\ShaderCache\e\e31937ecbcddf3127ba44daaaae6b937.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\ea5d4074ee983e3aee2f241eb3bf811b.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\e\ea5d4074ee983e3aee2f241eb3bf811b.bin
-    projectPath: Library\ShaderCache\e\ea5d4074ee983e3aee2f241eb3bf811b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\eb973f60f38a951f0abb397021f4b872.bin
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\ShaderCache\e\eb973f60f38a951f0abb397021f4b872.bin
-    projectPath: Library\ShaderCache\e\eb973f60f38a951f0abb397021f4b872.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\11\11043fc3a881495409d0828a9dcb372e
-    projectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
-    projectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\12\1238d42a20acce74c9ff1a51434f1960
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\12\1238d42a20acce74c9ff1a51434f1960
-    projectPath: Library\metadata\12\1238d42a20acce74c9ff1a51434f1960
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\12\1238d42a20acce74c9ff1a51434f1960.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\12\1238d42a20acce74c9ff1a51434f1960.info
-    projectPath: Library\metadata\12\1238d42a20acce74c9ff1a51434f1960.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\13\136dc24f151211d438acee17aff4e934
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\18\18eb894d53ff491408b69602eb959000
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\18\18eb894d53ff491408b69602eb959000
-    projectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\18\18eb894d53ff491408b69602eb959000.info
-    projectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\23\23c8bee69b591054094d32918f98facd
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
-    projectPath: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99.info
-    projectPath: Library\metadata\2b\2be0f2830f7c27f4f83bd4c4e0637c99.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\66\66da555d9ce961d448d026ba0354ee79
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\66\66da555d9ce961d448d026ba0354ee79
-    projectPath: Library\metadata\66\66da555d9ce961d448d026ba0354ee79
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
-    projectPath: Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034
-    projectPath: Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034.info
-    projectPath: Library\metadata\93\93161bb8f5b6a8b49bace0c1bd99e034.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
-    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
-    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
-    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
-    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
-    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
-    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
-    projectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
-    projectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
-    projectPath: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
-    projectPath: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
-    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
-    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+  - path: Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82.info
+    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82.info
+    projectPath: Library\metadata\e4\e41defbfe7ce9f747b9322da49f8ef82.info
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\ty268196\Documents\kitch-in-love\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7e77b119554766d4299aced53d5530c7
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Temp\UnityTempFile-7e77b119554766d4299aced53d5530c7
-    projectPath: Temp\UnityTempFile-7e77b119554766d4299aced53d5530c7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-8018caf3d02db65498bb7398a0c4759d
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Temp\UnityTempFile-8018caf3d02db65498bb7398a0c4759d
-    projectPath: Temp\UnityTempFile-8018caf3d02db65498bb7398a0c4759d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: kitch-in-love.csproj
-    fullPath: C:\Users\ty268196\Documents\kitch-in-love\kitch-in-love.csproj
-    projectPath: kitch-in-love.csproj
     originalPath: 
     status: 1
     staged: 0
