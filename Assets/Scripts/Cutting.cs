@@ -28,6 +28,7 @@ public class Cutting : MonoBehaviour {
 	void Update () {
         if (Input.GetMouseButtonDown(0) && donezo)
         {
+            this.gameObject.GetComponent<AudioSource>().Play();
             StartCoroutine("cutRoom");
         }
 
