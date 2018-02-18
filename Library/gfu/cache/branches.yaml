@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-18T17:55:02.0285658-05:00
-  lastVerifiedAtString: 2018-02-18T17:55:02.0415751-05:00
-  initializedAtString: 2018-02-18T17:34:59.3547661-05:00
+  lastUpdatedAtString: 2018-02-18T17:58:54.9027742-05:00
+  lastVerifiedAtString: 2018-02-18T17:58:54.9207874-05:00
+  initializedAtString: 2018-02-18T17:58:54.8547401-05:00
   gitConfigBranch:
     name: removeGitIgnore
     remote:
