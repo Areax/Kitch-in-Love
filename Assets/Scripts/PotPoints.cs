@@ -7,6 +7,7 @@ public class PotPoints : MonoBehaviour {
     float speed = 0.03f;
     bool hitPot;
     bool increaseScore;
+    float partialScore = 0;
     Vector3 p;
 
     // Use this for initialization
@@ -20,7 +21,8 @@ public class PotPoints : MonoBehaviour {
 
         if(increaseScore && hitPot)
         {
-            Score.score++;
+            partialScore++;
+            Score.score = Mathf.RoundToInt(partialScore) / 10;
         }
         if (Meter.progress > .45f && Meter.progress < .486f)
         {

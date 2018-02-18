@@ -9,6 +9,7 @@ public class shiftUpsidedown : MonoBehaviour
     float timer;
     int currentBurner;
     float tempValue;
+    float rotateVal;
 
     IEnumerator startValue()
     {
@@ -30,6 +31,7 @@ public class shiftUpsidedown : MonoBehaviour
         randomValue = 0f;
         incValue = 0f;
         tempValue = 0f;
+        rotateVal = 0f;
     }
 
     // The larger the number, the greater the variance
@@ -52,16 +54,21 @@ public class shiftUpsidedown : MonoBehaviour
         tempValue = transform.rotation.z + incValue;
 
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.RightArrow))
         {
-            tempValue -= .01f;
+            rotateVal -= .025f;
         }
-        else if(Input.GetKey(KeyCode.RightArrow))
+        else if(Input.GetKey(KeyCode.LeftArrow))
         {
-            tempValue += .01f;
+            rotateVal += .025f;
         }
 
-        transform.Rotate(0, 0, tempValue);
+        transform.Rotate(0, 0, tempValue + rotateVal);
+
+        if(Mathf.Abs(transform.rotation.z) > .75)
+        {
+            Timer.timer = 0.0f;
+        }
 
     }
 }

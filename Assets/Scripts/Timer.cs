@@ -4,29 +4,50 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
 
+[System.Serializable]
+public class HighScores
+{
+    public int carrotScore;
+    public int potScore;
+}
+
+
 public class Timer : MonoBehaviour
 {
     public static float timer = 0f;
     public Text timerText;
     public Text highScoreText;
     public int highScore;
+    string dataAsJson;
+    HighScores highScores;
     bool gameOver;
+    bool playingPotGame;
 
     private string gameDataProjectFilePath = "/StreamingAssets/data.json";
 
     // Use this for initialization
     void Start()
     {
-        timer = 120f;
+        timer = 60f;
         gameOver = false;
 
 
         string filePath = Application.dataPath + gameDataProjectFilePath;
 
+        if (GameObject.FindGameObjectWithTag("therm") != null)
+        {
+            playingPotGame = true;
+        }
+
         if (File.Exists(filePath))
         {
-            string dataAsJson = File.ReadAllText(filePath);
-            highScore = JsonUtility.FromJson<int>(dataAsJson);
+            dataAsJson = File.ReadAllText(filePath);
+            highScores = JsonUtility.FromJson<HighScores>(dataAsJson);
+
+            if (playingPotGame)
+                highScore = highScores.potScore;
+            else highScore = highScores.carrotScore;
+
         }
         else
         {
@@ -55,7 +76,11 @@ public class Timer : MonoBehaviour
             Time.timeScale = 0;
             gameOver = true;
 
-            string dataAsJson = JsonUtility.ToJson(Score.score);
+            if (playingPotGame)
+                highScores.potScore = highScore;
+            else highScores.carrotScore = highScore;
+
+            string dataAsJson = JsonUtility.ToJson(highScores);
 
             string filePath = Application.dataPath + gameDataProjectFilePath;
             File.WriteAllText(filePath, dataAsJson);
