@@ -24,8 +24,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Credits.unity
     guid: 4b46893814f2e25459c327364fc3e112
   - enabled: 1
-    path: Assets/CarrotCutting.unity
+    path: Assets/Scenes/CarrotCutting.unity
     guid: 5441ad4de218a644698c23b453306039
-  - enabled: 1
+  - enabled: 0
     path: Assets/PotStove.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PotStove.unity
     guid: 00000000000000000000000000000000
