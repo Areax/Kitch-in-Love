@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AcceleratingMovement.cs" />
+    <Compile Include="Assets\Scripts\CheckWin.cs" />
     <Compile Include="Assets\Scripts\Cutting.cs" />
     <Compile Include="Assets\Scripts\DestroyAfterPosition.cs" />
     <Compile Include="Assets\Scripts\InstantiateNew.cs" />

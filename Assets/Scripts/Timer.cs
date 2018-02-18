@@ -77,10 +77,17 @@ public class Timer : MonoBehaviour
             gameOver = true;
 
             if (playingPotGame)
+            {
                 highScores.potScore = highScore;
-            else highScores.carrotScore = highScore;
+                CheckWin.cookGamePlayed = true;
+            }
+            else
+            {
+                highScores.carrotScore = highScore;
+                CheckWin.cutGamePlayed = true;
+            }
 
-            string dataAsJson = JsonUtility.ToJson(highScores);
+                string dataAsJson = JsonUtility.ToJson(highScores);
 
             string filePath = Application.dataPath + gameDataProjectFilePath;
             File.WriteAllText(filePath, dataAsJson);
