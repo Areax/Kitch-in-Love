@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-18T18:14:31.8185345-05:00
+  lastVerifiedAtString: 2018-02-18T18:14:31.8370470-05:00
+  initializedAtString: 2018-02-18T18:14:31.7659964-05:00
+  gitConfigBranch:
+    name: removeGitIgnore
+    remote:
+      name: origin
+      url: https://github.com/Areax/Kitch-in-Love.git
+  gitConfigRemote:
+    name: origin
+    url: https://github.com/Areax/Kitch-in-Love.git
+  localBranches:
+  - name: master
+    tracking: origin/master
+    isActive: 0
+  - name: removeGitIgnore
+    tracking: origin/removeGitIgnore
+    isActive: 1
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/removeGitIgnore
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/Areax/Kitch-in-Love.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - removeGitIgnore
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/Areax/Kitch-in-Love.git
+    - name: removeGitIgnore
+      remote:
+        name: origin
+        url: https://github.com/Areax/Kitch-in-Love.git
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+      - removeGitIgnore
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/Areax/Kitch-in-Love.git
+      - name: removeGitIgnore
+        remote:
+          name: origin
+          url: https://github.com/Areax/Kitch-in-Love.git
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Areax/Kitch-in-Love.git
